@@ -21,7 +21,7 @@
     "debug": "^3.1.0",
     "express": "^4.16.3",
     "faker": "^4.1.0",
-    "helmet": "^3.12.1",
+    "helmet": "^3.23.3",
     "js-schema": "^1.0.1",
     "jsonwebtoken": "^8.3.0",
     "jwt-simple": "^0.5.1",
