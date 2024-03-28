@@ -30,7 +30,7 @@
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
     "pg": "^7.4.3",
-    "pg-promise": "^8.4.4",
+    "pg-promise": "^11.5.5",
     "request": "^2.87.0"
   },
   "devDependencies": {
